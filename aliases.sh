@@ -1,1 +1,1 @@
-alias prj='cd ~/stripe-foundations'
+alias prj='cd ~/projects'
